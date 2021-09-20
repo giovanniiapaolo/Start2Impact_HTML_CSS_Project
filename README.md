@@ -3,19 +3,23 @@
 <!-- # Simple portfolio -->
 
 # About
+
 A clean, beautiful and responsive portfolio templete with using only HTML and CSS.
 
 # Features
-- HTML and CSS
-- responsive
-- minimalistic design
-- modern web design color palettes
-- and much more
+
+-   HTML and CSS
+-   responsive
+-   minimalistic design
+-   modern web design color palettes
+-   and much more
 
 # Bug report or Feature request
+
 If you encounter a bug or have a feature request, send me a message here: giovanniiapaolo6@gmail.com
 
 # Contribute
+
 All of the contributors that have helped with implementing various features, adding themes, fixing bugs, and more.
 
 <!-- # Code of Conduct -->
@@ -23,6 +27,7 @@ All of the contributors that have helped with implementing various features, add
 <!-- # Credits -->
 
 # Support
+
 If you wish to support further development and feel extra awesome, you can do so [here](https://paypal.me/giovanniiapaolo).
 
 # License
