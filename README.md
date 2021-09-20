@@ -1,7 +1,7 @@
 # Simple portfolio template
 
-<img alt="APM" src="https://img.shields.io/apm/l/vim-mode">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/badges/shields">
+<a href="https://github.com/giovanniiapaolo/html-css-project/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/giovanniiapaolo/html-css-project"></a>
+<a href="https://github.com/giovanniiapaolo/html-css-project/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/giovanniiapaolo/html-css-project"></a>
 
 ## About
 
