@@ -26,4 +26,4 @@ If you wish to support further development and feel extra awesome, you can do so
 
 ### License
 
-The MIT License (MIT) - see [LICENSE.md](https://github.com/giovanniiapaolo/html_css_project/blob/master/LICENSE) for more details.
+The MIT License (MIT) - see [`LICENSE.md`](https://github.com/giovanniiapaolo/html_css_project/blob/master/LICENSE) for more details.
