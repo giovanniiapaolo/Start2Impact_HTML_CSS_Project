@@ -25,4 +25,8 @@ All of the contributors that have helped with implementing various features, add
 # Support
 If you wish to support further development and feel extra awesome, you can do so [here](https://paypal.me/giovanniiapaolo).
 
+# License
+
+<img alt="APM" src="https://img.shields.io/apm/l/vim-mode">
+
 <!-- Note -->
