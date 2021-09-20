@@ -1,5 +1,8 @@
 # Simple portfolio template
 
+<img alt="APM" src="https://img.shields.io/apm/l/vim-mode">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/badges/shields">
+
 ## About
 
 A clean, beautiful and responsive portfolio templete with using only HTML and CSS.
