@@ -17,7 +17,7 @@ A clean, beautiful and responsive portfolio templete with using only HTML and CS
 
 ### Bug report or Feature request
 
-If you encounter a bug or have a feature request, send me a message [here](mailto:paolo6@gmail.com).
+If you encounter a bug or have a feature request, send me a message [here](mailto:giovanniiapaolo6@gmail.com).
 
 ### Contribute
 
